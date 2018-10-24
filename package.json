@@ -1,0 +1,27 @@
+{
+  "name": "aws-sqs",
+  "version": "1.0.0",
+  "description": "demo project of aws-sqs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aws-sqs",
+    "sqs",
+    "messaging",
+    "protocol",
+    "producer-consumer",
+    "communicate",
+    "with",
+    "multiple",
+    "server"
+  ],
+  "author": "biplab malakar",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.340.0",
+    "dotenv": "^6.1.0",
+    "uuid": "^3.3.2"
+  }
+}
